@@ -33,7 +33,7 @@ http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/access-log
 ### Unarchive Log Data
 
 ```shell script
-gzip -d 2015_07_22_mktplace_shop_web_log_sample.log.gz
+gzip -d data/2015_07_22_mktplace_shop_web_log_sample.log.gz
 ```
 
 ### Compile, Test, and Build
